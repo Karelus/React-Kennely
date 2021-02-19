@@ -1,0 +1,30 @@
+{
+  "name": "kennely_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karelus/React_Kennely.git"
+  },
+  "author": "Karel Haapasalo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "packages": "0.0.8",
+    "path": "~0.12.7",
+    "react": "~16.13.1",
+    "react-dom": "~16.13.1",
+    "ts-loader": "~7.0.1",
+    "typescript": "~3.8.3",
+    "webpack": "~4.42.1",
+    "webpack-cli": "~3.3.11"
+  },
+  "bugs": {
+    "url": "https://github.com/Karelus/React_Kennely/issues"
+  },
+  "homepage": "https://github.com/Karelus/React_Kennely#readme"
+}
